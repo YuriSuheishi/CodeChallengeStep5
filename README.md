@@ -10,7 +10,7 @@ e-id=0%3A1&mode=design&t=wdX9pAQiBXyuwngN-1) as accurately as possible, focusing
 
 | Desktop | Mobile  |
 |------------|------------|
-| <img width="299" alt="image" src="https://github.com/user-attachments/assets/8f31b102-ce83-40e6-98d9-ef92134deba0" /> | <img alt="image" src="https://github.com/user-attachments/assets/d0c38c13-a427-424a-ae65-891415cb67ff" /> |
+| <img width="299" alt="image" src="https://github.com/user-attachments/assets/8f31b102-ce83-40e6-98d9-ef92134deba0" /> | <img width="117" alt="image" src="https://github.com/user-attachments/assets/d0c38c13-a427-424a-ae65-891415cb67ff" /> |
 
 
 
